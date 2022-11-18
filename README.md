@@ -1,4 +1,4 @@
-![Banner Mario](/images/Mario.gif)
+![Banner Mario](https://www.canva.com/design/DAFSQR4WJWs/HEplQ3aXLTm274Ciw6HsuA/edit?utm_content=DAFSQR4WJWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 👋 Hi there
 
