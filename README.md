@@ -1,4 +1,4 @@
-![Banner Mario](https://www.canva.com/design/DAFSQR4WJWs/VAwFEsmVsfhNfXp0EGNNqA/watch?utm_content=DAFSQR4WJWs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Banner Mario](/MARIO GONZALEZ.gif)
 
 ## 👋 Hi there
 
