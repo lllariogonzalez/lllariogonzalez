@@ -1,4 +1,4 @@
-![Banner Mario](./MARIO GONZALEZ.gif)
+![Banner Mario](/image/banner.gif)
 
 ## 👋 Hi there
 
