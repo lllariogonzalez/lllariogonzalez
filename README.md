@@ -1,8 +1,10 @@
-![Banner Mario](./images/banner.gif)
+![profilePic](./images/banner.gif)
 
 ## 👋 Hi there
 
-<p>My name is Mario and I am Full Stack Web Developers who loves programming. Since 2022, I have been learning and working on projects of front-end and back-end web development.</p>
+Hola! soy Full Stack Developer orientado a Backend, actualmente utilizo el stack PERN para realizar proyectos escalables y modularizables. Poseo conocimientos en tecnologías como Javascript, React, NodeJs, Express, PostgresSQL y Sequelize. Actualmente me estoy capacitando en TypeScript y ReactNative.
+
+Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo utilizando metodologías ágiles como Scrum. Tengo también un enfoque activo y dinámico hacia mis responsabilidades por lo que también puedo desenvolverme bien en tareas individuales que requieran de iniciativa propia. Me apasiona la Tecnología y estar actualizado y aprendiendo constantemente en búsqueda de nuevos desafíos.
 
 ## 💻 Technologies
 
@@ -10,4 +12,16 @@
   <a href="https://www.linkedin.com/in/lllariogonzalez/">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,nodejs,postgres,git,github,vscode" />
   </a>
+    HTML, CSS, Javascript, React, Redux, Node, Express, postgresSQL, Sequelize
 </p>
+
+## ➕More info
+- 🔭 I’m currently working on a web development project related to an eCommerce...
+- 🌱 I’m currently learning Typescript and React Native...
+- 👯 I’m looking to collaborate on web development projects...
+- 📫 How to reach me: lllariogonzalez@gmail.com...
+
+## How to reach me
+https://www.linkedin.com/in/llariogonzalez/
+<br>
+lllariogonzalez@gmail.com
