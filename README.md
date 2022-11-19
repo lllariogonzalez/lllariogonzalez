@@ -12,7 +12,7 @@ Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo coop
   <a href="https://www.linkedin.com/in/lllariogonzalez/">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,nodejs,postgres,git,github,vscode" />
   </a>
-  <p>HTML, CSS, Javascript, React, Redux, Node, Express, postgresSQL, Sequelize</p>
+  <p align="center">HTML, CSS, Javascript, React, Redux, Node, Express, postgresSQL, Sequelize</p>
 </p>
 
 ## ➕More info
