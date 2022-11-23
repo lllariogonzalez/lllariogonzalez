@@ -10,9 +10,9 @@ Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo coop
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lllariogonzalez/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,redux,nodejs,postgres,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,redux,nodejs,postgres,mongodb,git,github,vscode,vercel,webpack,aws,jest" />
   </a>
-  <p align="center">HTML, CSS, Javascript, TypeScript, React, Redux, Node, Express, postgresSQL, Sequelize</p>
+  <p align="center">HTML, CSS, Javascript, TypeScript, React, Redux, Node, Express, postgresSQL, Sequelize, MongoDB, Bootstrap, Jest, Mocha, Chai</p>
 </p>
 
 ## ➕More info
@@ -22,6 +22,6 @@ Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo coop
 - 📫 How to reach me: lllariogonzalez@gmail.com...
 
 ## How to reach me
-https://www.linkedin.com/in/llariogonzalez/
+https://www.linkedin.com/in/lllariogonzalez/
 <br>
 lllariogonzalez@gmail.com
