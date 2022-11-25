@@ -33,6 +33,7 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
   </a>
   <p align="center">HTML, CSS, Javascript, TypeScript, React, Redux, Node, Express, postgresSQL, Sequelize, MongoDB, Bootstrap, Jest, Mocha, Chai</p>
 </p>
+
 <!---
 ## ➕More info
 - 🔭 I’m currently working on a web development project related to an eCommerce...
@@ -40,7 +41,8 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
 - 👯 I’m looking to collaborate on web development projects...
 - 📫 How to reach me: lllariogonzalez@gmail.com...
 -->
-## Contáctame
+
+## ✉Contáctame
 https://www.linkedin.com/in/lllariogonzalez/
 <br>
 lllariogonzalez@gmail.com
