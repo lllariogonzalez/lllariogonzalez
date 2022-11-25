@@ -23,7 +23,7 @@ Hola! soy Full Stack Developer y utilizo el stack PERN para realizar proyectos s
 
 Logista, proactivo, resolutivo, autodidacta, tenaz y comprometido, son algunas de las definiciones que me describen, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo utilizando metodologías ágiles como Scrum, soy adaptable y resiliente. Tengo también un enfoque activo y dinámico hacia mis responsabilidades por lo que puedo desenvolverme bien en tareas individuales que requieran de iniciativa propia. Me apasiona la Tecnología y estar actualizado, tengo aprendizaje ágil y me gustan los desafíos.
 
-Si estas buscando a un persona para sumar, soy yo, si tambien lo crees no dudes en escribirme:
+Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes en escribirme:
 
 ## 💻 Technologies
 
