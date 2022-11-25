@@ -1,4 +1,4 @@
-![profilePic](./images/lllariogonzalez.gif)
+![profilePic](./images/lllariogonzalez.png)
 
 ## 👋 Hi there
 
