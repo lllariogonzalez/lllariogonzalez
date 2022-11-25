@@ -1,5 +1,20 @@
 ![profilePic](./images/lllariogonzalez.png)
 
+```javascript
+const profile = {
+    name: 'MARIO GONZALEZ',
+    header: 'Full Stack Developer' | 'Backend Developer' | 'Frontend Developer',
+    techSkills: ['JavaScript','TypeScript','NodeJs','Express','SQL','PostgreSQL','React','Redux'],
+    softSkills: ['Proactivo', 'Autodidacta', 'Responsable', 'Resolutivo', 'Adaptable', 'Resiliente', 'Tenaz'],
+    github: 'github.com/lllariogonzalez',
+    email: 'lllariogonzalez@gmail.com',
+    portfolio: 'lllariogonzalez.tech',
+    searching: true
+}
+
+const learning = (newTech) => profile.techSkills.push(newTech)
+```
+
 ## 👋 Hi there
 
 Hola! soy Full Stack Developer y utilizo el stack PERN para realizar proyectos escalables y modularizables. Poseo solidos conocimientos en tecnologías como: HTML, CSS, Javascript, TypeScript, React, Redux, Node, Express, postgresSQL, Sequelize, MongoDB, Bootstrap, Jest, Mocha, Chai. Actualmente me estoy capacitando en TypeScript y ReactNative.
