@@ -17,15 +17,15 @@ const profile = {
 const learning = (newTech) => profile.techSkills.push(newTech)
 ```
 
-## 👋 Hi there
+## 👋 Hola!
 
-Hola! soy Full Stack Developer y utilizo el stack PERN para realizar proyectos solid, clean, escalables y modularizables. Poseo sólidos conocimientos en tecnologías como: HTML5, CSS, Javascript, NodeJs, Express, PostgresSQL, Sequelize, MongoDB, Mongoose, React, Redux, Bootstrap, Jest. Actualmente me estoy capacitando en TypeScript y ReactNative.
+Soy Full Stack Developer y utilizo el stack PERN para realizar proyectos solid, clean, escalables y modularizables. Poseo sólidos conocimientos en tecnologías como: HTML5, CSS, Javascript, NodeJs, Express, PostgresSQL, Sequelize, MongoDB, Mongoose, React, Redux, Bootstrap, Jest. Actualmente me estoy capacitando en TypeScript y ReactNative.
 
 Logista, proactivo, resolutivo, autodidacta, tenaz y comprometido, son algunas de las definiciones que me describen, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo utilizando metodologías ágiles como Scrum, soy adaptable y resiliente. Tengo también un enfoque activo y dinámico hacia mis responsabilidades por lo que puedo desenvolverme bien en tareas individuales que requieran de iniciativa propia. Me apasiona la Tecnología y estar actualizado, tengo aprendizaje ágil y me gustan los desafíos.
 
 Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes en escribirme:
 
-## 💻 Technologies
+## 💻 Tecnologías
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lllariogonzalez/">
@@ -33,14 +33,14 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
   </a>
   <p align="center">HTML, CSS, Javascript, TypeScript, React, Redux, Node, Express, postgresSQL, Sequelize, MongoDB, Bootstrap, Jest, Mocha, Chai</p>
 </p>
-
+<!---
 ## ➕More info
 - 🔭 I’m currently working on a web development project related to an eCommerce...
 - 🌱 I’m currently learning Typescript and React Native...
 - 👯 I’m looking to collaborate on web development projects...
 - 📫 How to reach me: lllariogonzalez@gmail.com...
-
-## How to reach me
+-->
+## Contáctame
 https://www.linkedin.com/in/lllariogonzalez/
 <br>
 lllariogonzalez@gmail.com
