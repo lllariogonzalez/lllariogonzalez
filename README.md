@@ -1,4 +1,6 @@
+<!---
 ![profilePic](./images/lllariogonzalez.png)
+-->
 
 ```javascript
 const profile = {
