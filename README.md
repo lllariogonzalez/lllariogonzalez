@@ -2,9 +2,11 @@
 
 ## 👋 Hi there
 
-Hola! soy Full Stack Developer, actualmente utilizo el stack PERN para realizar proyectos escalables y modularizables. Poseo conocimientos en tecnologías como Javascript, React, NodeJs, Express, PostgresSQL y Sequelize. Actualmente me estoy capacitando en TypeScript y ReactNative.
+Hola! soy Full Stack Developer y utilizo el stack PERN para realizar proyectos escalables y modularizables. Poseo solidos conocimientos en tecnologías como: Javascript, React, Redux, NodeJs, Express, PostgresSQL, Sequelize, Actualmente me estoy capacitando en TypeScript y ReactNative.
 
-Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo utilizando metodologías ágiles como Scrum. Tengo también un enfoque activo y dinámico hacia mis responsabilidades por lo que también puedo desenvolverme bien en tareas individuales que requieran de iniciativa propia. Me apasiona la Tecnología y estar actualizado y aprendiendo constantemente en búsqueda de nuevos desafíos.
+Soy proactivo, resolutivo, autodidacta, tenaz y comprometido, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo utilizando metodologías ágiles como Scrum, soy adaptable y resiliente. Tengo también un enfoque activo y dinámico hacia mis responsabilidades por lo que puedo desenvolverme bien en tareas individuales que requieran de iniciativa propia. Me apasiona la Tecnología y estar actualizado, tengo aprendizaje ágil y me gustan los desafíos.
+
+Si estas buscando a un persona para sumar, escribime!
 
 ## 💻 Technologies
 
