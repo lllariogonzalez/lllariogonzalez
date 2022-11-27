@@ -1,6 +1,8 @@
 
 ![profilePic](./gif/lllariogonzalez.gif)
 
+<div><img src="./gif/lllariogonzalez.gif" alt="presentacion"/></div>
+
 ```javascript
 const profile = {
     name: 'MARIO GONZALEZ',
