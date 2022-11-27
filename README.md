@@ -1,5 +1,5 @@
 
-![profilePic](./img/lllariogonzalez.gif)
+![profilePic](./gif/lllariogonzalez.gif)
 
 ```javascript
 const profile = {
