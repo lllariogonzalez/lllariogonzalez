@@ -1,7 +1,7 @@
 
 ![profilePic](./gif/lllariogonzalez.gif)
 
-<div style="background-color: black"><img src="./gif/lllariogonzalez.gif" alt="presentacion"/></div>
+<div style="with: 100%, align-items: center"><img src="./gif/lllariogonzalez.gif" alt="presentacion"/></div>
 
 ```javascript
 const profile = {
