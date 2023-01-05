@@ -42,6 +42,6 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
 -->
 
 ## ✉Contáctame
-https://www.linkedin.com/in/lllariogonzalez/
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/lllariogonzalez/
 <br>
-lllariogonzalez@gmail.com
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lllariogonzalez@gmail.com
