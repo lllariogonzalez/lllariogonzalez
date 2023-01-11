@@ -41,7 +41,7 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
 - 📫 How to reach me: lllariogonzalez@gmail.com...
 -->
 
-## ✉Contáctame
+## ✉ Contáctame
 [![linkedin](https://img.shields.io/badge/Linkedin-lllariogonzalez-blue)](https://www.linkedin.com/in/lllariogonzalez/)
 <br>
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lllariogonzalez@gmail.com)
