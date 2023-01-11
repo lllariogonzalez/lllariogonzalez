@@ -42,6 +42,6 @@ Si estas buscando a un persona para sumar, soy yo, si también lo crees no dudes
 -->
 
 ## ✉Contáctame
-[![linkedin]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edigitalagency.com.au%2Flinkedin%2Fnew-linkedin-logo-png%2F&psig=AOvVaw0tvRBmi7VrMM1-Knpl-pbb&ust=1673477312144000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiJ2PeKvvwCFQAAAAAdAAAAABAE](https://img.shields.io/badge/Linkedin-lllariogonzalez-blue))](https://www.linkedin.com/in/lllariogonzalez/)
+[![linkedin]([(https://img.shields.io/badge/Linkedin-lllariogonzalez-blue)])(https://www.linkedin.com/in/lllariogonzalez/)
 <br>
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lllariogonzalez@gmail.com)
