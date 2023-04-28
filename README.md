@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=3000&pause=300&color=858585&multiline=true&width=800&height=200&lines=Hi!+I'm+Mario+Gonzalez%2C+FullStack+Developer+JavaScript;Love+programming%2C+it's+my+hobby+and+passion.;I+enjoy+the+challenge+and+learning;if+I+can+help+you+let+me+know.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=3000&pause=300&color=000000&multiline=true&width=800&height=111&lines=Hi!+I'm+Mario+Gonzalez%2C+FullStack+Developer+JavaScript;Love+programming%2C+it's+my+hobby+and+passion.;I+enjoy+the+challenge+and+learning;if+I+can+help+you+let+me+know.)](https://git.io/typing-svg)
 
 
 <!--
